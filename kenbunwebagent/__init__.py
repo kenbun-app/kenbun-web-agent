@@ -1,0 +1,5 @@
+__author__ = "osoken"
+__description__ = "web agent for kenbun"
+__email__ = "osoken.devel@outlook.jp"
+__package_name__ = "kenbunwebagent"
+__version__ = "0.0.1"
